@@ -92,7 +92,8 @@ plt.show()
 
 <div class="output display_data">
 
-![](84238111751d00719fb10d9cd0948e00fdb8793a.png)
+![image](https://github.com/user-attachments/assets/c2798484-4aa2-4311-8928-b170c8d416b8)
+
 
 </div>
 
@@ -211,7 +212,8 @@ plt.show()
 
 <div class="output display_data">
 
-![](1a97e0e12dd4948f59e0339654d2599ef94679b6.png)
+![image](https://github.com/user-attachments/assets/2ff0ec91-c9ce-4fa5-98b7-6ac6df1f8fed)
+
 
 </div>
 
@@ -237,7 +239,7 @@ plt.show()
 
 <div class="output display_data">
 
-![](b4d21d182a8b82ae095d507cf42cfeeb2b6b31a7.png)
+![image](https://github.com/user-attachments/assets/c320acc9-f2ee-43a5-b671-03f389bcb332)
 
 </div>
 
@@ -354,7 +356,8 @@ elbow_method(X, max_k=10)
 
 <div class="output display_data">
 
-![](8bbcd665ca840ad73015b0bbd5d9ee4f4d9cec57.png)
+![image](https://github.com/user-attachments/assets/85ade38d-1780-466c-b378-c21572811842)
+
 
 </div>
 
@@ -1117,7 +1120,8 @@ plt.show()
 
 <div class="output display_data">
 
-![](b4d21d182a8b82ae095d507cf42cfeeb2b6b31a7.png)
+![image](https://github.com/user-attachments/assets/27accef0-4e60-48fe-9fa2-d8652676d931)
+
 
 </div>
 
